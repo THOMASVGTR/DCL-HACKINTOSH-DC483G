@@ -7,14 +7,17 @@ DCL and macOS BigSur.
   <img src="Screenshot 2021-03-12 at 5.41.23 PM.png" width="720" alt="accessibility text">
 </p>
 
-# Laptop Specifications:
-=> CPU: Intel Core i3 8145U 2.3 GHz
-=> RAM: 8GB
-=> GPU: Intel UHD 620 Intigrated Graphics
-=> Audio: Intel HD Audio Controller
-=> Ethernet(LAN): Realtek 8411B PCI Express Gigabit Ethernet
-=> Wi-Fi(WLAN): Intel Wireless-AC 9462
-=> HDMI
+# Laptop Specifications: (Working with macOS)
+- CPU: Intel Core i3 8145U 2.3 GHz
+- RAM: 8GB
+- GPU: Intel UHD 620 Intigrated Graphics
+- Audio: Intel HD Audio Controller
+- Ethernet(LAN): Realtek 8411B PCI Express Gigabit Ethernet
+- Wi-Fi(WLAN): Intel Wireless-AC 9462
+- HDMI
+
+# Not Working:
+- Touchpad/Trackpad
 
 # BOOTLOADER:
 OPENCORE
