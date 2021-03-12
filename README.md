@@ -3,8 +3,8 @@ macOS running and full functional on DCL Laptop. Model: DC483G.
 DCL and macOS BigSur.
 
 <p align="center">
-  <img src="Screenshot 2021-03-12 at 5.40.17 PM.png" width="350" title="hover text">
-  <img src="Screenshot 2021-03-12 at 5.40.17 PM.png" width="350" alt="accessibility text">
+  <img src="Screenshot 2021-03-12 at 5.40.17 PM.png" width="720" title="hover text">
+  <img src="Screenshot 2021-03-12 at 5.41.23 PM.png" width="720" alt="accessibility text">
 </p>
 
 # Laptop Specifications:
