@@ -15,6 +15,7 @@ DCL and macOS BigSur.
 OPENCORE
 
 # Installation instructions:
+# Required FILES LINK:
 https://drive.google.com/drive/folders/1P-9XAbwxrwnYleWIqI4wYy_uxUETcbxw?usp=sharing
 
 Download [Clover.img, CloverBootDiskCreator.exe  and OSX_10.14.0_Installer.hfs ] files from this drive link.
@@ -29,6 +30,9 @@ Download [Clover.img, CloverBootDiskCreator.exe  and OSX_10.14.0_Installer.hfs ]
 # NOW DELETE ALL FILES INSIDE FROM THE drive/partition named as 'CLOVER' or 'USB DRIVE'.
 
 # Now copy my OPENCORE FOLDER IN IT. COPY FULL 'EFI' FOLDER. NOT FROM 'BOOT' and 'OC' Folders. From 'EFI' folder.
+
+# EFI Link:
+https://drive.google.com/drive/folders/1fubI2e71j3CDaSgz1QuZ_mQIdbotrun9?usp=sharing
 
 # Now your macOS bootable USB is created and fully ready to boot on DCL-DC483G Laptop.
 
