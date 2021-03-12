@@ -42,3 +42,5 @@ https://drive.google.com/drive/folders/1fubI2e71j3CDaSgz1QuZ_mQIdbotrun9?usp=sha
 # Now your macOS bootable USB is created and fully ready to boot on DCL-DC483G Laptop.
 
 # DO EVERYTHING AT YOUR OWN RISK. BACKUP IMPORTANT DATA FIRST BEFORE INSTALLING macOS. All the best.
+
+# Credit goes to Apple for macOS/OSX, Opencore developers & all hackers and developers for creating patches and drivers(kexts). 
