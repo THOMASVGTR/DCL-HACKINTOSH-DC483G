@@ -2,6 +2,11 @@
 macOS running and full functional on DCL Laptop. Model: DC483G.
 DCL and macOS BigSur.
 
+<p align="center">
+  <img src="your_relative_path_here" width="350" title="hover text">
+  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+</p>
+
 # Laptop Specifications:
 => CPU: Intel Core i3 8145U 2.3 GHz
 => RAM: 8GB
