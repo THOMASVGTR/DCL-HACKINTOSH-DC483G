@@ -1,4 +1,4 @@
-# HACKINTOSH-DC483G
+# DCL-HACKINTOSH-DC483G
 macOS running and full functional on DCL Laptop. Model: DC483G.
 DCL and macOS BigSur.
 
@@ -9,3 +9,6 @@ DCL and macOS BigSur.
 => Audio: Intel HD Audio Controller
 => Ethernet(LAN): Realtek 8411B PCI Express Gigabit Ethernet
 => Wi-Fi(WLAN): Intel Wireless-AC 9462
+
+# BOOTLOADER:
+OPENCORE
