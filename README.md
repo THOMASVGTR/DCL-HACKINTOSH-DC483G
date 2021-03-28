@@ -15,9 +15,10 @@ DCL and macOS BigSur.
 - Ethernet(LAN): Realtek 8411B PCI Express Gigabit Ethernet
 - Wi-Fi(WLAN): Intel Wireless-AC 9462
 - HDMI
+- Sleep issues fixed
 
 # Not Working:
-- Touchpad/Trackpad
+- Touchpad/Trackpad(Sometime works)
 
 # BOOTLOADER:
 OPENCORE
@@ -40,7 +41,7 @@ Download [Clover.img, CloverBootDiskCreator.exe  and OSX_10.14.0_Installer.hfs ]
 # Now copy my OPENCORE FOLDER IN IT. COPY FULL 'EFI' FOLDER. NOT FROM 'BOOT' and 'OC' Folders. From 'EFI' folder.
 
 # EFI Link:
-https://drive.google.com/drive/folders/1fubI2e71j3CDaSgz1QuZ_mQIdbotrun9?usp=sharing
+https://drive.google.com/file/d/1xkN9SU_4kFzWh-fXqC8flNO2FvhYYRqI/view?usp=sharing
 
 # Now your macOS bootable USB is created and fully ready to boot on DCL-DC483G Laptop.
 
