@@ -25,7 +25,7 @@ OPENCORE
 
 # Installation instructions:
 # Required FILES LINK:
-https://mega.nz/file/2DwBHAqA#wzjQD2mEqhV2aA4HPQEMEqYY8xwA_4ivcLvfAdCU9Ws
+https://drive.google.com/drive/folders/1P-9XAbwxrwnYleWIqI4wYy_uxUETcbxw?usp=sharing
 
 Download [Clover.img, CloverBootDiskCreator.exe  and OSX_10.14.0_Installer.hfs ] files from this drive link.
 
@@ -41,7 +41,7 @@ Download [Clover.img, CloverBootDiskCreator.exe  and OSX_10.14.0_Installer.hfs ]
 # Now copy my OPENCORE FOLDER IN IT. COPY FULL 'EFI' FOLDER. NOT FROM 'BOOT' and 'OC' Folders. From 'EFI' folder.
 
 # EFI Link:
-https://drive.google.com/file/d/1xkN9SU_4kFzWh-fXqC8flNO2FvhYYRqI/view?usp=sharing
+https://mega.nz/file/2DwBHAqA#wzjQD2mEqhV2aA4HPQEMEqYY8xwA_4ivcLvfAdCU9Ws
 
 # Now your macOS bootable USB is created and fully ready to boot on DCL-DC483G Laptop.
 
