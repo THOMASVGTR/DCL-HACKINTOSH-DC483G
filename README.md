@@ -25,7 +25,7 @@ OPENCORE
 
 # Installation instructions:
 # Required FILES LINK:
-https://drive.google.com/drive/folders/1P-9XAbwxrwnYleWIqI4wYy_uxUETcbxw?usp=sharing
+https://mega.nz/file/2DwBHAqA#wzjQD2mEqhV2aA4HPQEMEqYY8xwA_4ivcLvfAdCU9Ws
 
 Download [Clover.img, CloverBootDiskCreator.exe  and OSX_10.14.0_Installer.hfs ] files from this drive link.
 
