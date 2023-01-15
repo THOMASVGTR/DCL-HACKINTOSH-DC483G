@@ -15,7 +15,7 @@ DCL and macOS BigSur.
 - Audio: Intel HD Audio Controller
 - Ethernet(LAN): Realtek 8411B PCI Express Gigabit Ethernet
 - Wi-Fi(WLAN): Intel Wireless-AC 9462 also tested with the Intel AX200 wifi card
-- Touchpad/Trackpad(Sometime works)
+- Touchpad/Trackpad
 - Sleep issues fixed
 
 # Not Working:
