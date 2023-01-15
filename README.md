@@ -1,6 +1,7 @@
 # DCL-HACKINTOSH-DC483G
 macOS running and full functional on DCL Laptop. Model: DC483G.
 DCL and macOS BigSur.
+(Also compatible with macOS Monterey and Ventura).
 
 <p align="center">
   <img src="Screenshot 2021-03-12 at 5.40.17 PM.png" width="720" title="hover text">
@@ -13,12 +14,12 @@ DCL and macOS BigSur.
 - GPU: Intel UHD 620 Intigrated Graphics
 - Audio: Intel HD Audio Controller
 - Ethernet(LAN): Realtek 8411B PCI Express Gigabit Ethernet
-- Wi-Fi(WLAN): Intel Wireless-AC 9462
-- HDMI
+- Wi-Fi(WLAN): Intel Wireless-AC 9462 also tested with the Intel AX200 wifi card
+- Touchpad/Trackpad(Sometime works)
 - Sleep issues fixed
 
 # Not Working:
-- Touchpad/Trackpad(Sometime works)
+- HDMI
 
 # BOOTLOADER:
 OPENCORE
