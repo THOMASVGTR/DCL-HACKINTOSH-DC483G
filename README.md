@@ -10,11 +10,12 @@ DCL and macOS BigSur.
 
 # Laptop Specifications: (Working with macOS)
 - CPU: Intel Core i3 8145U 2.3 GHz
-- RAM: 8GB
+- RAM: 8+8=16GB DDR4
 - GPU: Intel UHD 620 Intigrated Graphics
 - Audio: Intel HD Audio Controller
 - Ethernet(LAN): Realtek 8411B PCI Express Gigabit Ethernet
 - Wi-Fi(WLAN): Intel Wireless-AC 9462 also tested with the Intel AX200 wifi card
+- Bluetooth
 - Touchpad/Trackpad
 - Sleep issues fixed
 
