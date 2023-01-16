@@ -31,7 +31,7 @@ https://drive.google.com/drive/folders/1P-9XAbwxrwnYleWIqI4wYy_uxUETcbxw?usp=sha
 
 Download [Clover.img, CloverBootDiskCreator.exe  and OSX_10.14.0_Installer.hfs ] files from this drive link.
 
-# 8GB USB FLASH DRIVE or above recommended. And also Windows 7,8,8.1 or 10
+# 8GB USB FLASH DRIVE or above recommended. And also Windows 7,8,8.1,10 or 11
 
 # Run cloverBootDiskCreator.exe after connecting USB drive to PC/Laptop.
 # Select clover.img and OSX HFS files you have downloaded. Then write these into the USB drive with cloverBootDiskCreator.
