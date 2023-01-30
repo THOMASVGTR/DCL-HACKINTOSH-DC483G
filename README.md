@@ -42,9 +42,6 @@ Download [Clover.img, CloverBootDiskCreator.exe  and OSX_10.14.0_Installer.hfs ]
 
 # Now copy my OPENCORE FOLDER IN IT. COPY FULL 'EFI' FOLDER. NOT FROM 'BOOT' and 'OC' Folders. From 'EFI' folder.
 
-# EFI Link:
-https://mega.nz/file/2DwBHAqA#wzjQD2mEqhV2aA4HPQEMEqYY8xwA_4ivcLvfAdCU9Ws
-
 # Now your macOS bootable USB is created and fully ready to boot on DCL-DC483G Laptop.
 
 # DO EVERYTHING AT YOUR OWN RISK. BACKUP IMPORTANT DATA FIRST BEFORE INSTALLING macOS. All the best.
